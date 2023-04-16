@@ -1,4 +1,4 @@
-<sub>Version - 1.8.9</sub>
+# <sub>Version - 1.8.9</sub>
  
  
  Please use 1.1.7.2, as ALL PREVIOUS VERSIONS are no longer in service. 1.1.7.2, has multiple new features, and will give you a nicer flipping experience!
